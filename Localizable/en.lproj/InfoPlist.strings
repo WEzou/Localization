@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Localizable
+
+  Created by youxin on 2020/2/27.
+  Copyright © 2020 youxin. All rights reserved.
+*/
+"CFBundleDisplayName" = "Localizable";
+"NSPhotoLibraryUsageDescription" = "Used to open photos";
+"NSCameraUsageDescription" = "Used to open camera";
